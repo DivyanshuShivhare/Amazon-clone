@@ -1,0 +1,18 @@
+#one{
+background-color: blue;
+}
+#two{
+    background-color: rgb(55, 255, 0);
+    visibility: none;
+}
+#three{
+    background-color: rgba(255,0,0,1);
+    /* display: none; */
+}
+div{
+    width:100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
